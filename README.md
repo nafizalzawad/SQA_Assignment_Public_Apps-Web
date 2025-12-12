@@ -36,3 +36,5 @@ Web Application Testing
 📄 Full Report
 
 All documents are included in the repository as a consolidated file.
+
+View on Google Sheets: https://docs.google.com/spreadsheets/d/1YZ7rtPMbbKHTcPQS8RR7J5Q_y-kwazVYhf1ko356GjQ/edit?usp=sharing
